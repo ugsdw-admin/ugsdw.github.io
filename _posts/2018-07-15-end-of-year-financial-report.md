@@ -1,6 +1,6 @@
 ---
-release: false
-published: false
+release: true
+published: true
 title: End-of-Year Financial Report
 author: UGSDW
 ---
